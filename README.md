@@ -1,4 +1,4 @@
 kNN
 ===
 
-implement kNN algorithm in c#
+реализация алгоритм kNN в c#
